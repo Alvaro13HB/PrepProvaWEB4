@@ -1,0 +1,1 @@
+export { default as apiProduto } from './Produto'
